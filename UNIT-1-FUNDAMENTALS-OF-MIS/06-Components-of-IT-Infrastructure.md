@@ -80,7 +80,6 @@ It includes resources such as:
 ```text
 A simple framework is:
 
-```text
 IT INFRASTRUCTURE
         │
  ┌──────┼───────┐

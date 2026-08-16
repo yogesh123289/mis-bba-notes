@@ -79,13 +79,13 @@ It includes resources such as:
 
 A simple framework is:
 
-IT INFRASTRUCTURE
-        │
- ┌──────┼───────┐
- ↓      ↓       ↓
-HARDWARE SOFTWARE NETWORK
-    │       │       │
-    └───────┼───────┘
+    IT INFRASTRUCTURE
+            │
+    ┌───────┼────────┐
+    ↓       ↓        ↓
+ HARDWARE SOFTWARE NETWORK
+    │       │        │
+    └───────┼────────┘
             ↓
       DATA & STORAGE
             ↓
@@ -96,7 +96,6 @@ HARDWARE SOFTWARE NETWORK
    INFORMATION SYSTEMS
             ↓
       BUSINESS USERS
----
 
 # 2. Why Do We Need Different Components?
 

@@ -98,6 +98,8 @@ HARDWARE SOFTWARE NETWORK
    INFORMATION SYSTEMS
             ↓
       BUSINESS USERS
+
+```
 # 2. Why Do We Need Different Components?
 
 Imagine a university has computers but:

@@ -77,15 +77,17 @@ It includes resources such as:
 - Technical support
 - System integration services
 
+```text
 A simple framework is:
 
-    IT INFRASTRUCTURE
-            │
-    ┌───────┼────────┐
-    ↓       ↓        ↓
- HARDWARE SOFTWARE NETWORK
-    │       │        │
-    └───────┼────────┘
+```text
+IT INFRASTRUCTURE
+        │
+ ┌──────┼───────┐
+ ↓      ↓       ↓
+HARDWARE SOFTWARE NETWORK
+    │       │       │
+    └───────┼───────┘
             ↓
       DATA & STORAGE
             ↓
@@ -96,7 +98,6 @@ A simple framework is:
    INFORMATION SYSTEMS
             ↓
       BUSINESS USERS
-
 # 2. Why Do We Need Different Components?
 
 Imagine a university has computers but:

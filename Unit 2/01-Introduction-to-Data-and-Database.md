@@ -135,7 +135,13 @@ DATABASE
   ↓
 DBMS
 ```
+The important question is:
 
+Why did organizations move from traditional files to databases?
+
+The answer is:
+
+Because traditional file systems created several problems when the volume, complexity and number of users increased.
 
 
 

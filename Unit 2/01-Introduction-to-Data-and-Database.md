@@ -52,3 +52,10 @@ Database Approach
 Database
   ↓
 DBMS
+```
+
+
+
+
+
+

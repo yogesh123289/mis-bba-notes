@@ -134,6 +134,8 @@ DATABASE APPROACH
 DATABASE
   ↓
 DBMS
+```
+
 
 
 

@@ -145,3 +145,35 @@ Because traditional file systems created several problems when the volume, compl
 
 
 
+4. Traditional File Processing System
+4.1 Meaning
+
+A file processing system is a system in which data is stored and managed using separate files, usually created for specific applications or departments.
+
+For example, a university may have:
+4. Traditional File Processing System
+4.1 Meaning
+
+A file processing system is a system in which data is stored and managed using separate files, usually created for specific applications or departments.
+
+For example, a university may have:
+Admission Application
+        ↓
+Admission File
+
+Fee Application
+        ↓
+Fee File
+
+Attendance Application
+        ↓
+Attendance File
+
+Examination Application
+        ↓
+Examination File
+
+Library Application
+        ↓
+Library File
+Each application may maintain its own files.
